@@ -167,7 +167,10 @@ calc.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-23 201125.png>)
-![alt text](<Screenshot 2024-04-23 201148.png>)
+![Screenshot 2024-04-26 212733](https://github.com/Pavithrasaravanakumar/Calc/assets/150664013/5c03a670-7ec3-4801-889c-5f07f10592bf)
+![Screenshot 2024-04-26 212746](https://github.com/Pavithrasaravanakumar/Calc/assets/150664013/2b3836fd-f54d-469d-b051-d05beab08db5)
+
+
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
